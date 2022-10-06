@@ -1,0 +1,13 @@
+Research a CSS library/framework such as Bootstrap, Material UI, Tailwind, Bulma and write 2 paragraphs about how it works and cite at least 2 articles - include this as a text file in your repo 
+
+Material UI is an open source React UI library of pre-built componenets and templates. It contains drop-down menus, navigation tools, and buttons. It's a lot faster and easier then building componets on your own from the ground up. It's beginner and user friendly, so anyone can use it as long as you practice with it. 
+
+It started in 2014, not too long after React came out to the public for use and it has gotten very popular over the years. You have to download Material UI into your VSC or any coding text editor you use before you can use it. It doesn't take too long to download and it's quick. You can also download fonts such as "Typography" to get more access to cool fonts and styles. 
+
+Source:
+
+https://www.freecodecamp.org/news/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c/#:~:text=In%20a%20nutshell%2C%20Material%2DUI,grown%20in%20popularity%20ever%20since.
+
+https://react.school/material-ui
+
+https://themeisle.com/blog/best-react-ui-framework/
